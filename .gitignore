@@ -1,0 +1,14 @@
+# 依赖（本项目零依赖，本行仅为防御）
+node_modules/
+
+# 运行时日志
+*.log
+srv.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.idea/
+.vscode/
