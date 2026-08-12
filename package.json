@@ -1,0 +1,13 @@
+{
+  "name": "dish-search",
+  "version": "1.0.0",
+  "description": "菜品搜索 + 教学视频 + 食材 + 热量计算工具（零依赖 Node.js）",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build_recipes.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
